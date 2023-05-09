@@ -7,7 +7,9 @@
  </a> <a href="https://port-0-donut-web-13082024l70kjclh.gksl1.cloudtype.app/intro/home/">
  <img src="https://img.shields.io/badge/DONUT-FF61F6?style=flat-square&logo=goldenline&logoColor=white"/>
  </a>
-
+</br>
+</br>
+</br>
 👍 Hi everyone! I'm a data scientist.🚀</br>
 I am interested in computer vision and data mining.💌
 </br>
