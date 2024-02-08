@@ -21,7 +21,7 @@
 
 ### 🏆 Accomplishments
 - **Data Youth Campus Excellence Award, Ministry of Science and ICT, Korea (Sep. 2022):** </br>
-https://github.com/khflower/real_time_keyword
+<a href="https://github.com/khflower/real_time_keyword">실시간 검색어 시각화</a>
 - **Accepted Paper at the 2023 Korea Software Congress (KSC 2023):**  </br>
 COLA: COst-Efficient LLM-based Retrieval-Augmented Generation for Reducing Hallucination
   
