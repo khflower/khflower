@@ -14,7 +14,7 @@
 
 ### 🏆 Accomplishments
 - **Data Youth Campus Excellence Award, Ministry of Science and ICT, Korea (Sep. 2022):** 
-- **Accepted Paper at the 2023 Korea Software Congress (KSC 2023):** 
+- **Accepted Paper at the 2023 Korea Software Congress (KSC 2023):** COLA: COst-Efficient LLM-based Retrieval-Augmented Generation for Reducing Hallucination
   
 ### 🎓 Current Research
 - Currently pursuing a Master's degree at Hanyang University's HYU Machine Learning Lab, focusing on video scene graph generation. 
