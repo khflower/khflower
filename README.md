@@ -11,7 +11,7 @@
 </br>
 
  
-👍 Hi everyone! I'm a data scientist passionate about leveraging computer vision and data mining to drive innovation.🚀
+👍 Hi everyone! I'm a data scientist passionate about leveraging computer vision and natural language processing in the multimodal field to drive innovation. 🚀
 
 </br>
 </br>
