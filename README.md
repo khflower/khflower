@@ -5,16 +5,24 @@
  <img src="https://img.shields.io/badge/khflower@hanyang.ac.kr-FB1911?style=flat-square&logo=monster&logoColor=white"/>
 </a>
 
+</br>
+</br>
+</br>
+</br>
 
  
 👍 Hi everyone! I'm a data scientist passionate about leveraging computer vision and data mining to drive innovation.🚀
 
-
+</br>
+</br>
+</br>
+</br>
 
 
 ### 🏆 Accomplishments
 - **Data Youth Campus Excellence Award, Ministry of Science and ICT, Korea (Sep. 2022):** 
-- **Accepted Paper at the 2023 Korea Software Congress (KSC 2023):** COLA: COst-Efficient LLM-based Retrieval-Augmented Generation for Reducing Hallucination
+- **Accepted Paper at the 2023 Korea Software Congress (KSC 2023):** 
+COLA: COst-Efficient LLM-based Retrieval-Augmented Generation for Reducing Hallucination
   
 ### 🎓 Current Research
 - Currently pursuing a Master's degree at Hanyang University's HYU Machine Learning Lab, focusing on video scene graph generation. 
