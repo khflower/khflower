@@ -21,7 +21,7 @@
 
 ### 🏆 Accomplishments
 - **Data Youth Campus Excellence Award, Ministry of Science and ICT, Korea (Sep. 2022):** 
-- **Accepted Paper at the 2023 Korea Software Congress (KSC 2023):** 
+- **Accepted Paper at the 2023 Korea Software Congress (KSC 2023):**  </br>
 COLA: COst-Efficient LLM-based Retrieval-Augmented Generation for Reducing Hallucination
   
 ### 🎓 Current Research
