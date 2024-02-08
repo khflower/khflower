@@ -7,19 +7,23 @@
  <img src="https://img.shields.io/badge/DONUT-FF61F6?style=flat-square&logo=goldenline&logoColor=white"/>
  </a>
  
-</br>
-</br>
-</br>
-</br>
-👍 Hi everyone! I'm a data scientist.🚀</br>
-I am interested in computer vision and data mining.💌
-</br>
-</br>
-</br>
-</br>
+👍 Hi everyone! I'm a data scientist passionate about leveraging computer vision and data mining to drive innovation.🚀
 
-#### 🛠Skills
-##### Advanced Languages & Framework
+
+
+
+### 🏆 Accomplishments
+- **Data Youth Campus Excellence Award, Ministry of Science and ICT, Korea (Sep. 2022):** 
+- **Accepted Paper at the 2023 Korea Software Congress (KSC 2023):** 
+  
+### 🎓 Current Research
+- Currently pursuing a Master's degree at Hanyang University's HYU Machine Learning Lab, focusing on video scene graph generation. 
+
+
+
+
+### 🛠Skills
+#### Advanced Languages & Frameworks
 
  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/> <img src="https://img.shields.io/badge/SAS-0089CF?style=flat-square&logo=sega&logoColor=white"/>
  
