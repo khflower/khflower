@@ -2,7 +2,7 @@
  <a href="https://aiflower.tistory.com/">
  <img src="https://img.shields.io/badge/blog-A23EF3?style=flat-square&logo=instacart&logoColor=white"/>
  </a> <a href="https://github.com/khflower/">
- <img src="https://img.shields.io/badge/whsndk2@korea.ac.kr-FB1911?style=flat-square&logo=monster&logoColor=white"/>
+ <img src="https://img.shields.io/badge/khflower@hanyang.ac.kr-FB1911?style=flat-square&logo=monster&logoColor=white"/>
  </a> <a href="https://port-0-donut-web-13082024l70kjclh.gksl1.cloudtype.app/intro/home/">
  <img src="https://img.shields.io/badge/DONUT-FF61F6?style=flat-square&logo=goldenline&logoColor=white"/>
  </a>
