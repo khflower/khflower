@@ -24,9 +24,11 @@
 <a href="https://github.com/khflower/real_time_keyword">Real-time Keyword Visualization</a>
 - **Accepted Paper at the 2023 Korea Software Congress (KSC 2023):**  </br>
 COLA: COst-Efficient LLM-based Retrieval-Augmented Generation for Reducing Hallucination
+- **Won 1st place in the CVPR 2024 Challenge (SMART-101 CVPR 2024 Challenge):**  </br>
+Solution for SMART-101 Challenge of CVPR Multi-modal Algorithmic Reasoning Task 2024
   
 ### 🎓 Current Research
-- Currently pursuing a Master's degree at Hanyang University's HYU Machine Learning Lab, focusing on video scene graph generation. 
+- Currently pursuing a Master's degree at Hanyang University's HYU Machine Learning Lab, focusing on VLM
 
 
 
