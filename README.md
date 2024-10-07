@@ -23,9 +23,9 @@
 - **Data Youth Campus Excellence Award, Ministry of Science and ICT, Korea (Sep. 2022):** </br>
 <a href="https://github.com/khflower/real_time_keyword">Real-time Keyword Visualization</a>
 - **Accepted Paper at the 2023 Korea Software Congress (KSC 2023):**  </br>
-COLA: COst-Efficient LLM-based Retrieval-Augmented Generation for Reducing Hallucination
+<a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11705116">COLA: COst-Efficient LLM-based Retrieval-Augmented Generation for Reducing Hallucination</a>
 - **Won 1st place in the CVPR 2024 Challenge (SMART-101 CVPR 2024 Challenge):**  </br>
-Solution for SMART-101 Challenge of CVPR Multi-modal Algorithmic Reasoning Task 2024
+<a href="https://arxiv.org/abs/2406.05963">Solution for SMART-101 Challenge of CVPR Multi-modal Algorithmic Reasoning Task 2024</a>
   
 ### 🎓 Current Research
 - Currently pursuing a Master's degree at Hanyang University's HYU Machine Learning Lab, focusing on VLM
